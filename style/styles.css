@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;1,400;1,900&display=swap");
+/* line 8, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+button {
+  color: aliceblue;
+  background-color: #6638f0;
+  padding: 9px 14px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 4px;
+}
+
+/* line 18, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.mainbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d6d6d6;
+  width: 604px;
+  font-family: Poppins;
+  padding: 20px;
+  margin: 500px auto;
+  order: 1;
+}
+
+/* line 29, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.mainbox h1 {
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: left;
+}
+
+/* line 35, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.mainbox h2 {
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+}
+
+/* line 43, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+button {
+  text-align: left;
+}
+
+/* line 47, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+#open:hover {
+  color: #5cc9f5;
+}
+
+/* line 51, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.modal-popup {
+  display: flex;
+  align-items: center;
+  width: 752px;
+  height: 543px;
+  margin: auto;
+  font-family: Poppins;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 200px;
+  background-color: aliceblue;
+}
+
+/* line 62, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.modal-popup img {
+  margin-top: -500px;
+  padding: 20px;
+}
+
+/* line 66, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.modal-popup p {
+  text-align: left;
+}
+
+/* line 71, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.purplebutton {
+  display: flex;
+}
+
+/* line 73, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.purplebutton a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #6638f0;
+}
+
+/* line 81, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.gradient {
+  width: 375px;
+  background-image: linear-gradient(#6638f0, #5cc9f5);
+  height: 543px;
+}
+
+/* line 87, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.popup {
+  width: 313px;
+  padding: 37px;
+}
+
+/* line 91, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.popup h3 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+/* line 96, ../../../../../../../../../../../../../Users/saravillalobos/Desktop/Villalobos_exscss/style/styles.scss */
+.popup p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+/*# sourceMappingURL=styles.css.map */
